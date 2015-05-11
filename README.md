@@ -1,0 +1,1 @@
+elastichoney is a small R project to show folks how to play with the data from Jordan Wright's (@jw\_sec) [blog post](http://jordan-wright.github.io/blog/2015/05/11/60-days-of-watching-hackers-attack-elasticsearch/) and elasticsearch honeypot data. Nothing earth shattering, just some more example R code for security folks to play with.
